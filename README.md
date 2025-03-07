@@ -1,2 +1,2 @@
-# SQL-Day3-7-3-2025-
+# SQL-Day3
 SQL Day3
